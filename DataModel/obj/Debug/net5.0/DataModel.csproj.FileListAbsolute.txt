@@ -1,0 +1,15 @@
+D:\angular\TestApi\DataModel\bin\Debug\net5.0\DataModel.deps.json
+D:\angular\TestApi\DataModel\bin\Debug\net5.0\DataModel.runtimeconfig.json
+D:\angular\TestApi\DataModel\bin\Debug\net5.0\DataModel.runtimeconfig.dev.json
+D:\angular\TestApi\DataModel\bin\Debug\net5.0\DataModel.dll
+D:\angular\TestApi\DataModel\bin\Debug\net5.0\ref\DataModel.dll
+D:\angular\TestApi\DataModel\bin\Debug\net5.0\DataModel.pdb
+D:\angular\TestApi\DataModel\obj\Debug\net5.0\DataModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\angular\TestApi\DataModel\obj\Debug\net5.0\DataModel.AssemblyInfoInputs.cache
+D:\angular\TestApi\DataModel\obj\Debug\net5.0\DataModel.AssemblyInfo.cs
+D:\angular\TestApi\DataModel\obj\Debug\net5.0\DataModel.csproj.CoreCompileInputs.cache
+D:\angular\TestApi\DataModel\obj\Debug\net5.0\DataModel.dll
+D:\angular\TestApi\DataModel\obj\Debug\net5.0\ref\DataModel.dll
+D:\angular\TestApi\DataModel\obj\Debug\net5.0\DataModel.pdb
+D:\angular\TestApi\DataModel\obj\Debug\net5.0\DataModel.genruntimeconfig.cache
+D:\angular\TestApi\DataModel\obj\Debug\net5.0\DataModel.csproj.AssemblyReference.cache

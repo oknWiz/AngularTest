@@ -3,3 +3,13 @@
 ################################################################################
 
 /Core/obj/Debug/net5.0
+/Core/bin/Debug/net5.0
+/DataModel/bin/Debug/net5.0
+/Core/obj
+/Interface/bin/Debug/net5.0
+/Interface/obj
+/Service/bin/Debug/net5.0
+/Service/obj
+/TestApi/bin/Debug/net5.0
+/TestApi/obj
+/TestApi/.vs/TestApi
