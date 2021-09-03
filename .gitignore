@@ -5,6 +5,7 @@
 /Core/obj/Debug/net5.0
 /Core/bin/Debug/net5.0
 /DataModel/bin/Debug/net5.0
+/DataModel/obj/Debug
 /Core/obj
 /Interface/bin/Debug/net5.0
 /Interface/obj
@@ -13,3 +14,4 @@
 /TestApi/bin/Debug/net5.0
 /TestApi/obj
 /TestApi/.vs/TestApi
+/client/node_modules

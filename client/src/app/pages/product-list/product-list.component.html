@@ -1,0 +1,39 @@
+<div class="jumbotron py-3">
+    <h1 class="display-4 text-center">Product Register</h1>
+&nbsp;&nbsp;
+<div class="button-row">
+    <button type="button" (click)="doLogout()" mat-flat-button color="primary">
+      <mat-icon>logout</mat-icon>Logout
+    </button>
+  </div>
+</div>
+
+<div class="row">
+    <div class="col-md-6">
+        <app-product-register (registered)="loadList($event);"></app-product-register>
+    </div>
+    <div class="col-md-6">
+        <table class="table">
+            <thead class="thead-light">
+                <tr>
+                    <th>Product Title</th>
+                    <th>Price</th>
+                    <th>Description</th>
+                    <th>Category</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr *ngFor="let product of list">
+                    <td (click)="populateForm(product)">{{product.Title}}</td>
+                    <td (click)="populateForm(product)">{{product.Price}}</td>
+                    <td (click)="populateForm(product)">{{product.Description}}</td>
+                    <td (click)="populateForm(product)">{{product.Category}}</td>
+                    <td>
+                        <i class="far fa-trash-alt fa-lg text-danger" (click)="onDelete(product.ProductId)"></i>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>

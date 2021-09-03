@@ -119,7 +119,7 @@ namespace TestApi.Controllers
 
         #endregion
 
-        #region Get Username and Password
+        #region Login
 
         [HttpPost("Login")]
         public SysUserDTO Login([FromBody]LoginData login)

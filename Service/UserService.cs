@@ -52,7 +52,6 @@ namespace Service
                     UserId = obj.UserId,
                     FullName = obj.FullName,
                     Username = obj.Username,
-                    Password = obj.Password,
                     RoleName = obj.RoleName,
                     RoleId = obj.RoleId,
                     Contact = obj.Contact,
